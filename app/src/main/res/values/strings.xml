@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DenizMertDemir</string>
+    <string name="text_recognition">Text Recognition</string>
+    <string name="face_detection">Face Detection</string>
+    <string name="barcode_scan">Barcode Scan</string>
+    <string name="object_detection">Object Detection</string>
+    <string name="copied">Copied To Clipboard</string>
+    <string name="changed_camera">Camera Changed</string>
+    <string name="change_camera">Change\nCamera</string>
+    <string name="intent_proces_type">intent_process_type_key</string>
+</resources>
